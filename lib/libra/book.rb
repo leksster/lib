@@ -8,5 +8,9 @@ module Libra
       @author = author
     end
 
+    def to_s
+      "#{title}, #{author}"
+    end
+
   end
 end

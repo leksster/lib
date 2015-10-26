@@ -10,6 +10,11 @@ module Libra
       @street = street
       @house = house
     end
+
+    def to_s
+      "#{name}, #{email}, #{city}, #{street}, #{house}"
+    end
+
   end
 
 end

@@ -7,6 +7,9 @@ module Libra
       @book = book
       @reader = reader
     end
-    
+
+    def to_s
+      "#{book}, #{reader}"
+    end
   end
 end

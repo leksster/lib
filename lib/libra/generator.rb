@@ -1,3 +1,5 @@
+require "faker"
+
 module Libra
   class Generator
     attr_accessor :gen_readers, :gen_authors, :gen_books, :gen_orders, :books, :authors, :orders, :readers
@@ -20,7 +22,7 @@ module Libra
         @authors << Author.new(Faker::Name.name, Faker::Lorem.sentence(rand(20), true))
       end
       gen_books.times do |n| 
-        @books << Book.new(Faker::Book.title, @authors[n])
+        @books << Book.new(Faker::Book.title, @authors.sample)
       end
       gen_orders.times do
         @orders << Order.new(@books[rand(@books.length)-1], @readers[rand(@readers.length)-1])

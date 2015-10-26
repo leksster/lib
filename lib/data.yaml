@@ -1,0 +1,4781 @@
+--- !ruby/object:Libra::Library
+name: MyNameIsLib
+books:
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &7 !ruby/object:Libra::Author
+    name: Dock Ritchie
+    biography: Tergum assentator bos contra sponte utique denique subiungo armo.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &2 !ruby/object:Libra::Author
+    name: Mr. Kailey Willms
+    biography: Qui soluta eum demum vultuosus thalassinus deficio eum stabilis capillus
+      comprehendo tumultus inflammatio collum antiquus suppellex ulterius spoliatio
+      tunc autem iure infit cometes.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &16 !ruby/object:Libra::Author
+    name: Sid Emmerich V
+    biography: Tripudio tepidus sit subiungo trado acies vomica callide.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &191 !ruby/object:Libra::Author
+    name: Kathryn Grimes
+    biography: Provident animi assumenda contra cursim facilis audio universe cum
+      statua qui curvus corona.
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &192 !ruby/object:Libra::Author
+    name: Kaela Casper
+    biography: Succedo voluptas tendo cado bibo coniecto comburo delectus trucido
+      nesciunt quis delibero supellex debitis et textilis assumenda dolorem.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &61 !ruby/object:Libra::Author
+    name: Sofia Hessel
+    biography: Vilis vehemens terror benigne patior carcer aut venia optio et et coniecto
+      sit aut damnatio solium decet.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &25 !ruby/object:Libra::Author
+    name: April Cummerata
+    biography: Abundans facilis atavus demoror voluptatum aedificium tenuis allatus
+      varius debeo cohors dolores sollicito sonitus vivo vehemens coma nihil benevolentia
+      contabesco dolor creta.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &21 !ruby/object:Libra::Author
+    name: Elvis Lakin Jr.
+    biography: Alveus cribro capitulus callide suffragium traho stips sordeo civitas
+      iure comedo accipio ratione ait tres cedo tener cornu stella.
+- &287 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &1 !ruby/object:Libra::Author
+    name: Janiya Howell
+    biography: Contabesco ago administratio sulum comminor vespillo confugo aequitas
+      cedo carpo tergum tot cruciamentum cuppedia delectus adfero valens attollo conventus
+      agnosco curo aspicio spargo.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &9 !ruby/object:Libra::Author
+    name: Mary Wolf
+    biography: Quis tepesco usitas celo ter ratione tumultus.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &52 !ruby/object:Libra::Author
+    name: Ms. Nelle O'Connell
+    biography: Recusandae vomer spes benigne theatrum calamitas nesciunt possimus
+      assumenda decerno coadunatio tracto paens vix verus auctus suggero adversus
+      taceo vestigium cultellus.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &55 !ruby/object:Libra::Author
+    name: Lenore Yost
+    biography: Velit spero crepusculum quasi voluptatibus copiose dolorum cohaero
+      civitas voluptas.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &82 !ruby/object:Libra::Author
+    name: Omer Bahringer
+    biography: Admoneo tepesco nisi dignissimos ager acceptus suscipit amo caecus
+      minima debeo vulgo cupressus crebro doloribus tempora brevis voluptas ratione
+      collum.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &38 !ruby/object:Libra::Author
+    name: Warren Morissette
+    biography: Nisi aut auris cado aedificium itaque pel deludo utilis explicabo consequatur
+      harum atrox certus charisma valetudo absorbeo collum tutamen adficio aurum vinum
+      accommodo.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &73 !ruby/object:Libra::Author
+    name: Peter Ledner
+    biography: Decet reiciendis numquam ea alius cunae deleo aureus bellum labore.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &125 !ruby/object:Libra::Author
+    name: Shanna Nicolas
+    biography: Sit at apud traho ademptio eveniet defero varietas animi verbera totidem.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &17 !ruby/object:Libra::Author
+    name: Miller Murazik I
+    biography: Qui contabesco surculus usus charisma terreo quia summisse studio damnatio.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &46 !ruby/object:Libra::Author
+    name: Adrian Volkman
+    biography: Pauci ante virtus timor deprecator canto addo occaecati amissio dedecor
+      sui clamo adicio cotidie vulnero tricesimus demoror.
+- &275 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &187 !ruby/object:Libra::Author
+    name: Ms. Nasir Hayes
+    biography: Deduco tremo accusator termes vicissitudo veritas ut.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *1
+- &305 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &127 !ruby/object:Libra::Author
+    name: Emmie Bailey
+    biography: Soluta officia clamo amo summisse dolorem veritas pecco alter strenuus
+      spargo debeo despecto.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &5 !ruby/object:Libra::Author
+    name: Eldora Roberts
+    biography: Apto cras vestigium corroboro pax nihil amplus theca considero admoneo
+      eos nemo.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &129 !ruby/object:Libra::Author
+    name: Emerald Lemke
+    biography: Audeo delectus admitto advenio adopto tyrannus vacuus stillicidium
+      veniam totam vultuosus vorax umbra consequatur acceptus confugo aliquid.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &164 !ruby/object:Libra::Author
+    name: Fritz Schmeler
+    biography: Tricesimus auctus sperno perferendis vilitas esse dens thermae uberrime
+      corporis carus dignissimos utique tepesco auris cursim auditor stultus voluptatem
+      causa tergiversatio aduro.
+- &301 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &3 !ruby/object:Libra::Author
+    name: Modesta Hegmann
+    biography: Degero alienus virgo utrimque argumentum conventus civitas alius ambulo
+      eligendi alter saepe voro deleo calamitas aro bardus depopulo tibi.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *2
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &421 !ruby/object:Libra::Author
+    name: Vicente Hermann
+    biography: Quidem suffragium asper agnosco decipio cernuus.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &401 !ruby/object:Libra::Author
+    name: Mrs. Whitney Rohan
+    biography: Cruentus pax accendo aiunt tepidus adiuvo defaeco vulticulus vinitor
+      vestigium balbus consequatur celo cupio demo optio triumphus cum aegre.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &19 !ruby/object:Libra::Author
+    name: Lura Miller
+    biography: Usus absens caterva cuppedia concido thalassinus turpe tardus voluptatum
+      concedo basium.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &24 !ruby/object:Libra::Author
+    name: Myra Harber
+    biography: Civitas aut speciosus qui aut aequitas collum cornu repellat tempora
+      aut arto adfectus crapula cerno vilis coniuratio vociferor vulgus celebrer.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *3
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &4 !ruby/object:Libra::Author
+    name: Teagan Fahey III
+    biography: Et comedo amplexus terminatio damnatio quo avoco callide tandem volo
+      patior facilis perspiciatis.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *4
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: &8 !ruby/object:Libra::Author
+    name: Miss Marisol Moen
+    biography: Repudiandae utilis animi totus coniecto utrum ancilla congregatio arma
+      color alioqui pecto appono atrocitas qui cultellus uterque cometes crepusculum.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &215 !ruby/object:Libra::Author
+    name: Ms. Shana Collins
+    biography: Approbo volutabrum clibanus quos volva antea suffragium eum cotidie
+      velum textilis concedo terga pecus fugiat adsidue esse viscus accendo ulterius.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &18 !ruby/object:Libra::Author
+    name: Bernice Labadie
+    biography: Amaritudo consuasor turpe caelum sponte antea.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &142 !ruby/object:Libra::Author
+    name: Corene Rice I
+    biography: Vulnus velut quidem carpo celo cubo vivo basium quam aduro arbor rem
+      verbum varietas.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &39 !ruby/object:Libra::Author
+    name: Noel Bogan
+    biography: Alius nulla tricesimus curiositas voluptates verus decet sublime bene
+      sub at aggero cresco.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &60 !ruby/object:Libra::Author
+    name: Wade Bartoletti
+    biography: Quo tribuo urbs creta cribro absorbeo eius tandem possimus.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &27 !ruby/object:Libra::Author
+    name: Miss Isabella Leffler
+    biography: Cotidie ut arcesso sustineo absens provident combibo volup comprehendo
+      at colloco tenetur desparatus aequus et tamdiu quos tandem defungo.
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &140 !ruby/object:Libra::Author
+    name: Beatrice Bosco II
+    biography: Surculus voluptates ager ante villa templum dolores et subiungo quo.
+- &344 !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &62 !ruby/object:Libra::Author
+    name: Delores Labadie
+    biography: Temptatio apparatus est denuo reiciendis absconditus ventosus acquiro
+      abscido theca dolorum conatus conor verbera doloremque conitor damno tutis cetera
+      decet odit fugit suspendo.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &420 !ruby/object:Libra::Author
+    name: Raphaelle Abernathy
+    biography: Decens magnam omnis cotidie spiritus benevolentia tam acidus tergum.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &190 !ruby/object:Libra::Author
+    name: Aaliyah Jerde
+    biography: Dolor admiratio attonbitus tolero aegrotatio tot repudiandae adamo
+      uxor calco amicitia decumbo ratione tubineus accusator praesentium est.
+- &297 !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &36 !ruby/object:Libra::Author
+    name: Nichole Ziemann
+    biography: Rerum vulticulus cohors blanditiis sollicito eligendi valetudo barba
+      confido aperte omnis.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &167 !ruby/object:Libra::Author
+    name: Josue Ernser
+    biography: Vitae centum cultura quos caelum terebro confugo dolores autem universe
+      et candidus sophismata sortitus odio.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &208 !ruby/object:Libra::Author
+    name: Owen Hermann
+    biography: Cupressus cometes velut tyrannus truculenter cattus adamo concido odio
+      amita custodia aut decet admiratio amaritudo.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &183 !ruby/object:Libra::Author
+    name: Aliza Kiehn
+    biography: Vicinus inflammatio incidunt capio crux cado curso stabilis ago creptio
+      quaerat sol aspernatur.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &37 !ruby/object:Libra::Author
+    name: Mrs. Morris Kuhlman
+    biography: Spes.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &54 !ruby/object:Libra::Author
+    name: Miss Piper Crooks
+    biography: Adiuvo curtus callide antea derideo ara.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &86 !ruby/object:Libra::Author
+    name: Mrs. Keely Rutherford
+    biography: Aperio aut conservo earum curtus vulnus tricesimus aedificium aliquam
+      angustus suppono dolorem tutis suadeo aspicio aro depono velociter apostolus
+      patrocinor varietas desolo victoria.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &180 !ruby/object:Libra::Author
+    name: Estrella Rohan
+    biography: Aperte crapula enim patria.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &116 !ruby/object:Libra::Author
+    name: Gabriella Wilkinson II
+    biography: Creator confido rerum admoneo curriculum quidem admiratio tendo verumtamen
+      venustas cervus ipsa clibanus annus cariosus subseco ustilo vitae denique cupiditate
+      benevolentia.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &6 !ruby/object:Libra::Author
+    name: Aidan Shanahan
+    biography: Benevolentia somnus viduata triduana suppono thesaurus vero dedecor.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &415 !ruby/object:Libra::Author
+    name: Cassie Halvorson
+    biography: Trucido vicinus ancilla consequatur crudelis pauci cotidie vociferor
+      cunabula quia.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &237 !ruby/object:Libra::Author
+    name: Bell Conn MD
+    biography: Vultuosus accipio attero peior strenuus impedit defigo coruscus crudelis
+      ter bibo optio distinctio solutio suffragium quos.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &156 !ruby/object:Libra::Author
+    name: Felipa Baumbach
+    biography: Acsi abduco celo corroboro supplanto.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &130 !ruby/object:Libra::Author
+    name: Mr. Tony Brown
+    biography: Vultuosus cursim depromo traho aut censura theatrum.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &49 !ruby/object:Libra::Author
+    name: Antonio VonRueden
+    biography: "."
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *5
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &111 !ruby/object:Libra::Author
+    name: Ms. Gina Farrell
+    biography: Adulatio supra conventus certe conculco.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &13 !ruby/object:Libra::Author
+    name: Krystel Gottlieb
+    biography: Caecus vis curia balbus tribuo vomer accusamus vehemens tot terminatio
+      adopto appositus delibero absque complectus qui adstringo.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &11 !ruby/object:Libra::Author
+    name: Lafayette Kutch
+    biography: Inventore vinum tribuo tabula.
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &14 !ruby/object:Libra::Author
+    name: Turner Huel
+    biography: Solio viriliter patruus terminatio sollers conturbo thorax demens thesaurus
+      cernuus debeo.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &10 !ruby/object:Libra::Author
+    name: Ms. Lucio Johnson
+    biography: Voluptas sono sit auditor adduco volubilis animi.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *6
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *7
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &15 !ruby/object:Libra::Author
+    name: Ms. Abel Balistreri
+    biography: Speculum degero patrocinor correptius adimpleo comburo ambitus sum
+      accusator adulatio amplus urbs ter ascisco canonicus conturbo fugiat strenuus
+      peccatus sit.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &103 !ruby/object:Libra::Author
+    name: Cindy Jerde DVM
+    biography: Dolores adamo iste ascit temporibus consequatur vacuus ago coadunatio
+      verecundia saepe sol impedit absconditus cum utpote adimpleo aeger alias caelum
+      tripudio.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &53 !ruby/object:Libra::Author
+    name: Dr. Reyna Boyle
+    biography: Id officiis allatus laborum stultus et baiulus vigor quo possimus magni
+      voluptas.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &20 !ruby/object:Libra::Author
+    name: Mrs. Allene Hauck
+    biography: Turpis appello ars attonbitus alo suus esse alius ullam ea maxime iste
+      tracto cavus curatio sulum capio tego vapulus deprecator adfero corona.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *8
+- &384 !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &228 !ruby/object:Libra::Author
+    name: Daija Hirthe
+    biography: Communis non statua sustineo dolores ager.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *9
+- &318 !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *10
+- &388 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &70 !ruby/object:Libra::Author
+    name: Jaeden Von
+    biography: Aptus ut vulgivagus decimus tubineus qui cubitum cinis aggero unde
+      carpo deficio sordeo angustus subvenio rerum textor aperiam.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &56 !ruby/object:Libra::Author
+    name: Amina Dibbert
+    biography: Tamen ars terebro ascit sub timor possimus curvo vito commemoro vobis
+      demoror.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &100 !ruby/object:Libra::Author
+    name: Mrs. Elbert Hegmann
+    biography: Acquiro pecus viscus blandior degero addo velit coaegresco coma tubineus
+      thorax culpa alius causa avoco accusamus.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &220 !ruby/object:Libra::Author
+    name: Crystel Hodkiewicz
+    biography: Vilis natus xiphias et derelinquo aureus abduco.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &439 !ruby/object:Libra::Author
+    name: Mrs. Domenica McCullough
+    biography: Pariatur qui spoliatio eos bonus.
+- &349 !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &210 !ruby/object:Libra::Author
+    name: Brook Champlin
+    biography: Impedit.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &254 !ruby/object:Libra::Author
+    name: Miss Holden McKenzie
+    biography: Aveho est conicio laboriosam stips tristis explicabo somniculosus voveo.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &256 !ruby/object:Libra::Author
+    name: Mustafa Greenholt
+    biography: Cunabula expedita ago quasi decet.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &112 !ruby/object:Libra::Author
+    name: Rahul Blick
+    biography: Cibus curatio desipio demulceo theca aestus.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *11
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &81 !ruby/object:Libra::Author
+    name: Avis Bogan I
+    biography: Vulpes cibo officiis venustas capitulus auxilium summisse aggredior
+      demum stabilis sustineo.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &12 !ruby/object:Libra::Author
+    name: Emmitt Braun
+    biography: Nemo cultellus triduana villa.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &42 !ruby/object:Libra::Author
+    name: Wilson Sporer
+    biography: Allatus tantum quo non tardus altus nesciunt somnus amoveo vicinus
+      et ab pectus verumtamen.
+- &393 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &189 !ruby/object:Libra::Author
+    name: Myriam Gulgowski
+    biography: Vigor sopor surculus sponte caute curvus recusandae aspicio venustas
+      acervus vorax arcesso cursus cum utrum compono veritas autem amita.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &230 !ruby/object:Libra::Author
+    name: Eleazar Daniel
+    biography: Caste in iusto labore sublime ulterius territo tutamen cultellus vero.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &84 !ruby/object:Libra::Author
+    name: Shaniya Koss
+    biography: Temperantia copia cupressus.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &41 !ruby/object:Libra::Author
+    name: Leonard Huel
+    biography: Cariosus voluptate tabesco campana ratione acervus eos curto.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &105 !ruby/object:Libra::Author
+    name: Carole Romaguera
+    biography: Vorago crur concido viscus tantum advenio tego debilito.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &85 !ruby/object:Libra::Author
+    name: Gabe Schmitt
+    biography: Ex utilis contigo stillicidium trucido ullus cognomen angelus cribro
+      aegre tamen argentum deprecator abutor acsi tenuis caute conventus spero.
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: &108 !ruby/object:Libra::Author
+    name: Mandy Sauer MD
+    biography: Sufficio defessus unde charisma ambitus sunt cognomen sumptus tollo
+      consequatur acer totidem voluptate ea verecundia.
+- &376 !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *12
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &30 !ruby/object:Libra::Author
+    name: Christ Watsica
+    biography: Carus tui architecto animus mollitia.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &166 !ruby/object:Libra::Author
+    name: Alize Collier
+    biography: Somnus dicta taceo deprecator at omnis celer umerus.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &35 !ruby/object:Libra::Author
+    name: Loma Howell
+    biography: Capto asporto cilicium theca sol conor impedit crastinus acceptus vado
+      vehemens umbra sustineo validus cubo.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &419 !ruby/object:Libra::Author
+    name: Marcella Waters
+    biography: Cotidie non autem usus quia adhuc pariatur comptus.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &123 !ruby/object:Libra::Author
+    name: Camryn Wisoky
+    biography: Condico optio cotidie molestiae via vesper aegre terra tempore stabilis
+      dolor vespillo crudelis demitto dicta trepide tantillus sufficio triumphus et.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &22 !ruby/object:Libra::Author
+    name: Luella Douglas
+    biography: Degenero tabesco traho antepono ab sortitus vulnero nam casus convoco.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *6
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *13
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &50 !ruby/object:Libra::Author
+    name: Carmelo Bechtelar
+    biography: Accedo trans atavus claustrum tracto depopulo combibo adsidue tremo
+      vinco porro denego viduata tempora sollers celebrer sperno vero viridis suffragium.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &117 !ruby/object:Libra::Author
+    name: Hermina Wisoky
+    biography: Bellicus consequatur caveo non natus decor amicitia spargo.
+- &324 !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &44 !ruby/object:Libra::Author
+    name: Lue Bartoletti
+    biography: Qui inventore curia amet.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &28 !ruby/object:Libra::Author
+    name: Adella Yost
+    biography: Quae desipio voluptate ipsa suasoria pectus absque sint degenero velum
+      tot ipsam eaque deinde ex.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &257 !ruby/object:Libra::Author
+    name: Andre Paucek
+    biography: Vilis cavus non defero vacuus aperte paulatim correptius summopere
+      canto appono vomer crux sollers terga.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &94 !ruby/object:Libra::Author
+    name: Dameon Gibson IV
+    biography: Contigo valens tui casso antea tandem acquiro et corrupti vulgus arca
+      subiungo cicuta credo aliquid calco rerum talus cultellus adsuesco id tertius
+      neque.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &135 !ruby/object:Libra::Author
+    name: Stanton Bechtelar IV
+    biography: Cura facilis comis tenus turpis abscido comes valeo adversus suffragium
+      ratione pauci aestivus sequi curtus ascit desino utrum.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &235 !ruby/object:Libra::Author
+    name: Ms. Carmelo Wolff
+    biography: Thymbra absens sonitus voro apto nulla sequi deinde subnecto ubi.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &90 !ruby/object:Libra::Author
+    name: Wilmer Schiller
+    biography: Magni supellex repellendus suscipio cruciamentum provident vito strues
+      cotidie est.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &31 !ruby/object:Libra::Author
+    name: Khalid Greenfelder
+    biography: Ab aliquam sustineo carmen crinis ut acerbitas dicta bonus alter adfero
+      enim.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &203 !ruby/object:Libra::Author
+    name: Merle Lueilwitz
+    biography: Amita qui suscipit universe clarus deprecator quia temperantia tabgo
+      caritas demoror abeo contigo quam astrum supplanto damno vulgivagus callide
+      in.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *14
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &40 !ruby/object:Libra::Author
+    name: Jennifer Schmidt
+    biography: Trado aestas spero supplanto crudelis cernuus autus tamen tener stipes.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *15
+- &363 !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *16
+- &291 !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &29 !ruby/object:Libra::Author
+    name: Leonora Zulauf V
+    biography: Vereor adnuo cauda spiculum iste vindico decumbo aegrus advenio adeptio
+      degero sodalitas culpa contabesco cum amplexus terreo fugit qui.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &216 !ruby/object:Libra::Author
+    name: Mrs. Dianna Heller
+    biography: Laborum adimpleo tui baiulus adfero armo amoveo delicate degusto.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *10
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &92 !ruby/object:Libra::Author
+    name: Kim Sporer
+    biography: Veritatis thema ventus comminor sit volubilis ars vobis utique eligendi
+      crapula eum ver candidus voluptates certe comis tubineus defero quo ancilla.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &169 !ruby/object:Libra::Author
+    name: Kelsie Mohr MD
+    biography: Bestia volaticus clam cursus soleo reprehenderit surgo dedico tergum
+      quia coerceo agnitio capio brevis et calculus sophismata calamitas allatus sumo
+      conforto talis autem.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &43 !ruby/object:Libra::Author
+    name: Elvie Daniel
+    biography: Vulgo triduana desolo supra video demum arbitro tolero stipes umbra
+      et umquam aetas abeo benevolentia.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &101 !ruby/object:Libra::Author
+    name: Ericka Predovic DDS
+    biography: Ater alo.
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: &221 !ruby/object:Libra::Author
+    name: Brendon Moen PhD
+    biography: Annus sit ver cimentarius umbra quasi stips.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &214 !ruby/object:Libra::Author
+    name: Harley Bailey
+    biography: "."
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &126 !ruby/object:Libra::Author
+    name: Brady Rippin
+    biography: Tabesco vilis defaeco urbs audacia consuasor abundans incidunt adversus
+      ars alius pecto conforto suspendo.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *14
+- &317 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &453 !ruby/object:Libra::Author
+    name: Hank Wolf Jr.
+    biography: Consuasor abundans aut reprehenderit nisi sui ager.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *7
+- &359 !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &51 !ruby/object:Libra::Author
+    name: Darius Rosenbaum
+    biography: Chirographum bellum uredo socius decipio victoria audacia subiungo
+      enim avarus statim vicissitudo tracto corona candidus suus varietas volva verto
+      universe somniculosus solium comes.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *3
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &188 !ruby/object:Libra::Author
+    name: Flossie Ruecker
+    biography: Itaque comis natus quo pecto aurum cohaero aestus dignissimos tracto
+      ambulo utroque voluptate conduco absens quia congregatio cubicularis suppono
+      carus volubilis.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &261 !ruby/object:Libra::Author
+    name: Yolanda Durgan
+    biography: Delinquo astrum.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *17
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *18
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &150 !ruby/object:Libra::Author
+    name: Sibyl Davis
+    biography: Amita thorax adulatio aduro caecus succedo suppellex texo sit causa
+      laboriosam culpo vorax aureus crustulum avoco subseco aestus caste acsi.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &23 !ruby/object:Libra::Author
+    name: Bo Baumbach
+    biography: Cura contego administratio vigilo.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *19
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *16
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *20
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &26 !ruby/object:Libra::Author
+    name: Erwin Koch
+    biography: Artificiose utrimque beatus aliqua viscus unus caries ea curvo catena
+      surculus cauda adfectus celer spes quidem aut texo.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &47 !ruby/object:Libra::Author
+    name: Arielle Adams
+    biography: Tempus cui libero optio ut cetera verus.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &88 !ruby/object:Libra::Author
+    name: Mrs. Kaylee Hayes
+    biography: Adfectus carpo aut rem deficio terror tondeo adfero carcer aegrotatio.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &136 !ruby/object:Libra::Author
+    name: Eldora Kunde
+    biography: Textilis urbanus solio admitto culpo studio et consequuntur tres quas
+      paulatim voluntarius adiuvo una.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &152 !ruby/object:Libra::Author
+    name: Fannie Fay
+    biography: Deludo pauci amet capto adnuo aliquam cruentus demo.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &436 !ruby/object:Libra::Author
+    name: Makayla McKenzie
+    biography: Cras demulceo ustilo aestus ab ustulo antiquus vilitas alter speciosus
+      administratio ultra veritatis magnam.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *21
+- &355 !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &99 !ruby/object:Libra::Author
+    name: Shannon Monahan
+    biography: Tenuis utroque vesper taceo depereo cilicium carus aut voluptatem tero
+      qui unde desipio volaticus rem sint absque unde antea valetudo.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *22
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *23
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &87 !ruby/object:Libra::Author
+    name: Micaela Hickle
+    biography: Argentum suscipio cogito solutio admiratio colo decipio tenuis auditor
+      blanditiis dolore ager assentator dignissimos.
+- &347 !ruby/object:Libra::Book
+  title: Free Parking
+  author: *24
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *18
+- &379 !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *25
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *26
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &78 !ruby/object:Libra::Author
+    name: Kirk Skiles
+    biography: Approbo repellat tutamen ara canto adopto crux omnis pecto venustas
+      arto tristis adsum tripudio vereor pecus corpus cum dicta suffragium absum.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &83 !ruby/object:Libra::Author
+    name: Jacky Hodkiewicz
+    biography: Vulgivagus fuga aeger apto pariatur culpa voluptas vestigium cur audentia.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *27
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &102 !ruby/object:Libra::Author
+    name: Gilbert Ondricka
+    biography: Alveus contigo reiciendis adflicto accendo depulso arbitro deprimo
+      somnus consequuntur ambitus utroque pecus sodalitas demum similique ducimus
+      undique succurro ara terminatio vivo corona copiose.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &132 !ruby/object:Libra::Author
+    name: Jimmy Jacobson I
+    biography: Utrimque soluta similique quo quia tristis cotidie ter conventus sit
+      canto supellex sursum.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *28
+- &315 !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &137 !ruby/object:Libra::Author
+    name: Myrtle Rogahn
+    biography: Spiculum bardus condico ex vacuus attero calamitas distinctio.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &34 !ruby/object:Libra::Author
+    name: Mrs. Scottie Jacobson
+    biography: Votum audeo cuppedia suscipit aranea tergiversatio delectus cado et
+      perferendis acquiro et tabernus.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *29
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *16
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &265 !ruby/object:Libra::Author
+    name: Laura Dooley
+    biography: Acervus degenero vos infit defendo voluptatum patior depono debeo catena
+      delectatio.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *30
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &57 !ruby/object:Libra::Author
+    name: Noelia Kub
+    biography: Apparatus quisquam iste catena ducimus clibanus thymbra soleo bestia
+      aeternus causa.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &48 !ruby/object:Libra::Author
+    name: Jessika Eichmann
+    biography: Aut maxime nihil decens contego baiulus vir venustas cetera somniculosus
+      dicta vinculum velit appello.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &63 !ruby/object:Libra::Author
+    name: Jammie Kuvalis
+    biography: Altus numquam abscido qui conitor auris non enim tergo maiores.
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *18
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &131 !ruby/object:Libra::Author
+    name: Nella Schimmel
+    biography: Eligendi video amo congregatio amet crebro corporis auditor cogito
+      acidus quo.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &250 !ruby/object:Libra::Author
+    name: Ari Kuhn
+    biography: Adfectus tabula defleo officia alius cerno voveo veritas quaerat recusandae
+      vero tardus vinco omnis arbor ater odit caterva.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *21
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: &124 !ruby/object:Libra::Author
+    name: Brianne Schuster PhD
+    biography: Fuga clamo creptio demens vesica est combibo sperno solvo nihil sonitus
+      sint.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *31
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &268 !ruby/object:Libra::Author
+    name: Miss Christelle Willms
+    biography: Timidus capillus confero tunc pecto coniuratio attollo.
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &113 !ruby/object:Libra::Author
+    name: Euna Schaefer
+    biography: Thymbra conforto tabesco aliquid teneo aut vulariter ceno tonsor torqueo
+      cicuta saepe sponte itaque tot ultio cubitum caute qui aegrus doloremque tribuo.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &181 !ruby/object:Libra::Author
+    name: Carmen Brekke
+    biography: Decens ipsum vulnero placeat conforto casso voluptas truculenter credo
+      ademptio absum timidus cado ab atque quia caste spero rerum tertius tabula.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &68 !ruby/object:Libra::Author
+    name: Mrs. Maria Kub
+    biography: Enim audio centum absorbeo aut adinventitias vigilo deserunt communis
+      laboriosam defetiscor modi asper vivo annus aut.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &65 !ruby/object:Libra::Author
+    name: Ebba Bruen
+    biography: Angustus perferendis certe veniam.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &427 !ruby/object:Libra::Author
+    name: Mrs. Jonatan Konopelski
+    biography: Amissio congregatio acsi thermae sophismata sui exercitationem.
+- &292 !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &33 !ruby/object:Libra::Author
+    name: Miss Rickey Smith
+    biography: Condico conculco terror verbera decet vulnero sublime stips nam admiratio
+      adsuesco charisma torqueo toties cogo vinculum trepide attollo aedificium recusandae.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &32 !ruby/object:Libra::Author
+    name: Santina Beahan
+    biography: Colloco cariosus ducimus vespillo curiositas certus titulus demulceo
+      theca subnecto.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *10
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &178 !ruby/object:Libra::Author
+    name: Vito Murazik
+    biography: Autem sulum magni articulus velociter auctus aperio summopere inventore
+      pecco quia uberrime vigor trado umquam caput dolorum.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *32
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *26
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *16
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &454 !ruby/object:Libra::Author
+    name: Luella Adams II
+    biography: Officiis torrens delicate adeo trado cariosus pauci perferendis sapiente
+      ara demitto consequuntur amet aequus.
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: &458 !ruby/object:Libra::Author
+    name: Ophelia Hoppe
+    biography: Sit censura amiculum vos ambitus pauper explicabo tametsi soleo candidus
+      civitas molestiae est vehemens communis volo expedita caput terreo absum curvo.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *33
+- &369 !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &162 !ruby/object:Libra::Author
+    name: Ena O'Kon MD
+    biography: Acidus tracto adipisci consequatur colo peior cogito et arma deputo
+      solium sol patruus.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *34
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &95 !ruby/object:Libra::Author
+    name: Jaylen Grant
+    biography: Optio antiquus colloco aequitas appello depraedor harum eius callide
+      facilis astrum trado ipsa talis eaque aufero cui crapula sortitus acsi deorsum.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *35
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &69 !ruby/object:Libra::Author
+    name: Maurine Konopelski
+    biography: Tener venustas vobis aurum auctor quidem aptus adfero accusantium illo
+      acidus decens curso tersus ascisco.
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &45 !ruby/object:Libra::Author
+    name: Vladimir Reinger
+    biography: Inflammatio defessus curto depopulo abundans venia denuo causa ustulo
+      molestiae facilis cornu tenax culpa nisi quidem.
+- &319 !ruby/object:Libra::Book
+  title: Free Parking
+  author: &133 !ruby/object:Libra::Author
+    name: Maxime Connelly
+    biography: Audentia amita turbo paulatim toties canonicus aut venia cohors vetus
+      vacuus deorsum chirographum unde.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *36
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &64 !ruby/object:Libra::Author
+    name: Breanna Treutel
+    biography: Tardus conitor vesco ars ut adipiscor culpo trepide tego dolorem arcesso
+      abstergo vestigium aut centum advenio.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *13
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *37
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &263 !ruby/object:Libra::Author
+    name: Yessenia Kilback
+    biography: Id tamisium suadeo animi deputo.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &225 !ruby/object:Libra::Author
+    name: Aylin Dickinson PhD
+    biography: Ut spargo fugiat tempora deprecator voluptates incidunt conduco curvus
+      deorsum coaegresco acer minus volubilis voluptas tui patria maxime tres tepesco
+      summa administratio tonsor.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &122 !ruby/object:Libra::Author
+    name: Anastasia Zieme DDS
+    biography: Aut claudeo adipiscor voluptatem sophismata tero vulnero.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &58 !ruby/object:Libra::Author
+    name: Juston Lehner II
+    biography: Cohors verbera deserunt tubineus cunctatio tener sono arma sit vox
+      omnis ventito turbo non curo terror adeo impedit thesaurus arcus.
+- &277 !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &96 !ruby/object:Libra::Author
+    name: Ms. Albertha Schamberger
+    biography: Expedita alius sint usitas et est.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *38
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &66 !ruby/object:Libra::Author
+    name: Haley Ritchie
+    biography: Aut et tempora quae defero absum balbus canis ipsa stips advenio sui
+      omnis curia omnis vinum ait tremo debilito conturbo tersus curo.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *27
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *39
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *22
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *40
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *37
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *41
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *42
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &417 !ruby/object:Libra::Author
+    name: Imogene Wisozk
+    biography: Via apud tonsor terreo tenus aufero.
+- &377 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &59 !ruby/object:Libra::Author
+    name: Gerald Kunze
+    biography: Et thesaurus canis cursim.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *43
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *44
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &151 !ruby/object:Libra::Author
+    name: Alyce Kerluke
+    biography: Nostrum animi abbas advenio placeat cohaero tendo.
+- &272 !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &109 !ruby/object:Libra::Author
+    name: Mr. Corrine Jones
+    biography: Magni comis ambulo et aer torqueo eos laborum cilicium subito teneo
+      conor avaritia dolorem aestus aurum tam sordeo textilis earum vel carmen.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *45
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &416 !ruby/object:Libra::Author
+    name: Hester Mohr
+    biography: Defleo adflicto aut uter.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &146 !ruby/object:Libra::Author
+    name: Vidal Bergnaum
+    biography: Aeger tego unus repellendus colloco quidem nobis.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &407 !ruby/object:Libra::Author
+    name: Ariane Marvin
+    biography: Curtus contigo tutamen admoneo vis natus audax vulariter derelinquo
+      eum provident cognatus clementia.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &448 !ruby/object:Libra::Author
+    name: Alia Heidenreich Jr.
+    biography: Conitor cui ulciscor excepturi complectus dolorem.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &138 !ruby/object:Libra::Author
+    name: Uriah Goyette
+    biography: Acies spero decumbo caveo temeritas balbus cohors cariosus altus cibo
+      supra doloribus traho.
+- &370 !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *46
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &234 !ruby/object:Libra::Author
+    name: Kobe Swift
+    biography: Cariosus aeger earum cohaero suus cervus tamdiu claustrum error aurum
+      volaticus adhuc compello aestas.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *47
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &195 !ruby/object:Libra::Author
+    name: Vida Waters DDS
+    biography: Suscipio usus conventus amissio antepono atavus ulterius caute celer
+      corporis doloremque.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *48
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *49
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &222 !ruby/object:Libra::Author
+    name: Louie Stiedemann
+    biography: Attero civitas verto defetiscor voluptate ciminatio auctor totus aut
+      cervus spoliatio volubilis.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &408 !ruby/object:Libra::Author
+    name: Consuelo Schulist
+    biography: Tempus conturbo capillus advenio ventosus claudeo.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &110 !ruby/object:Libra::Author
+    name: Aiyana O'Hara PhD
+    biography: Asporto cum ustilo qui tamdiu sunt timidus accedo vitae demonstro amo
+      auctor non teneo usitas teres maxime anser claustrum arguo.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *19
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &267 !ruby/object:Libra::Author
+    name: Jerad Langosh
+    biography: Illum defaeco id ciminatio vos colloco tam thermae error cognomen qui
+      crux.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *50
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *51
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &404 !ruby/object:Libra::Author
+    name: Lisa Kuphal
+    biography: Abeo aurum vulticulus damno umquam sumptus capitulus cetera coerceo
+      alioqui terror peior timidus socius.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *52
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *53
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &455 !ruby/object:Libra::Author
+    name: Meaghan Conn
+    biography: Inflammatio certe tempora thorax careo arbitro timidus adipisci.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &213 !ruby/object:Libra::Author
+    name: May Ankunding
+    biography: Denego adipiscor creptio necessitatibus capillus comminor despecto
+      usque nam cultura.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *54
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *55
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &440 !ruby/object:Libra::Author
+    name: Anya Padberg
+    biography: Sit cornu commemoro carpo defaeco compello amplexus arca officia ars
+      arcus suggero eum aiunt statua spes.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *56
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &134 !ruby/object:Libra::Author
+    name: Eliseo Schimmel
+    biography: Claustrum subvenio.
+- &329 !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *4
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *26
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &165 !ruby/object:Libra::Author
+    name: Watson Kreiger
+    biography: Illo aliquid delibero audeo carcer nemo aut rem volaticus volo tricesimus
+      usque.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *57
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *58
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &266 !ruby/object:Libra::Author
+    name: Lonnie Witting
+    biography: Acies antiquus cursus in suppellex cohibeo patior adsuesco.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &75 !ruby/object:Libra::Author
+    name: Ms. Davion Hoppe
+    biography: "."
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *44
+- &390 !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &449 !ruby/object:Libra::Author
+    name: Alberta Abernathy
+    biography: Succedo provident cognatus decumbo totus aveho repellendus commodo
+      uterque adulatio sulum cursim condico pauci verbum capto cornu.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *54
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &71 !ruby/object:Libra::Author
+    name: August Ullrich
+    biography: Laborum conitor careo cras tenetur sulum catena placeat depereo expedita
+      sit trepide tempus.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &148 !ruby/object:Libra::Author
+    name: Iva Turner II
+    biography: Terreo alter eius coruscus ut adhuc ante tergo cursim alienus vobis
+      decet.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *59
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *60
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &74 !ruby/object:Libra::Author
+    name: Mitchell MacGyver V
+    biography: Contra auditor vero tredecim consectetur curvo rem impedit delinquo
+      sonitus est odio tibi antea enim victoria vilis vulgaris demum vivo commemoro.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *43
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &264 !ruby/object:Libra::Author
+    name: Mrs. Johann Bayer
+    biography: Nostrum catena suscipit tantum veritas ea vado confero clarus quo.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *61
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &76 !ruby/object:Libra::Author
+    name: Jaycee Schneider
+    biography: Cavus vix perspiciatis tener demitto cuppedia aufero conventus cubo
+      certo at supra somniculosus cum harum comparo tergiversatio dolorem abbas adsuesco
+      cur.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &168 !ruby/object:Libra::Author
+    name: Ms. Keenan Frami
+    biography: Cotidie thema odio conculco vacuus copiose adeptio rerum audax amissio
+      tametsi voluptas uter stella volup velit labore coniuratio.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &118 !ruby/object:Libra::Author
+    name: Antonette Muller V
+    biography: Tamquam cicuta carcer harum necessitatibus sortitus ara canto circumvenio
+      paulatim solitudo denuo ultra.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *62
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &223 !ruby/object:Libra::Author
+    name: Kamille Emard
+    biography: Quia esse varius atrox tabella tunc qui demo unus campana commodi odit
+      absconditus spargo talio atqui vitae creator condico clibanus.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &418 !ruby/object:Libra::Author
+    name: Alexanne Daugherty
+    biography: Usus vigilo turba cavus conservo addo soleo ullam taceo verumtamen.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *23
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &98 !ruby/object:Libra::Author
+    name: Ms. Alene Moen
+    biography: Adicio ultra soluta despecto sophismata cernuus surculus cervus brevis.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &269 !ruby/object:Libra::Author
+    name: Miss Luella Marquardt
+    biography: Cibo amo omnis ea valens et dolorum bardus ultra amaritudo ut statim
+      cum sublime tabgo.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *63
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &227 !ruby/object:Libra::Author
+    name: Mrs. Emerson Keebler
+    biography: Dolorem cultellus causa crapula solum desolo cras in.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &446 !ruby/object:Libra::Author
+    name: Halie Kemmer
+    biography: Sed venio modi suppono degero quo decens apparatus verecundia occaecati
+      crustulum demergo error suffragium solvo bibo verus cervus aequus.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &435 !ruby/object:Libra::Author
+    name: Kayley Brekke
+    biography: Tempus virga atqui crepusculum desolo aureus adfectus vacuus avaritia
+      valetudo conitor eius tricesimus cinis vallum sunt decipio decimus quis valeo
+      debilito.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *64
+- &391 !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &77 !ruby/object:Libra::Author
+    name: Armand Schmidt
+    biography: Vos tertius argentum thymbra varius atavus creta adiuvo consequatur
+      fugit qui accusator bardus depulso defleo abutor.
+- &293 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &91 !ruby/object:Libra::Author
+    name: Faustino Ledner
+    biography: Tepidus in subito velum correptius caritas celebrer coadunatio optio
+      illo censura sulum caste vero conicio clementia aestivus qui deinde deorsum.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *65
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &139 !ruby/object:Libra::Author
+    name: Jalon Krajcik
+    biography: Commodi utilis caries sollicito appositus congregatio velit.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &207 !ruby/object:Libra::Author
+    name: Antwon Quigley
+    biography: Debilito voluptate acies decet abeo audio tripudio ceno ustulo coma
+      cado bis ut valetudo aut adulatio denique voco comis.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *29
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *66
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &128 !ruby/object:Libra::Author
+    name: Kolby Ferry
+    biography: Tempora amicitia terra adfero beatus ciminatio cohaero.
+- &278 !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &67 !ruby/object:Libra::Author
+    name: Lisette Hermann I
+    biography: Defessus eos doloribus necessitatibus accipio ago cum aggredior ulterius
+      excepturi deserunt triumphus volutabrum cupiditas triduana tepidus arma complectus.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *66
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &145 !ruby/object:Libra::Author
+    name: Lenna Green
+    biography: Trans appello cupiditate tergiversatio acervus maxime utilis dolor
+      socius celer.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &155 !ruby/object:Libra::Author
+    name: Dr. Deron Fritsch
+    biography: Demo creptio ara administratio.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *67
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *68
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *69
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &80 !ruby/object:Libra::Author
+    name: Dr. Bessie Ondricka
+    biography: Cribro turbo subito.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *47
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *70
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &160 !ruby/object:Libra::Author
+    name: Jensen Mayert
+    biography: Copia unus adfectus deinde ademptio tribuo cogo earum utroque suspendo
+      quae administratio curiositas defero ait aqua supplanto pecto sed dolor totus
+      usitas.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *46
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *53
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &106 !ruby/object:Libra::Author
+    name: Dr. Alexys Pollich
+    biography: Qui alter nulla vulgus caterva coma quis tamisium.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &72 !ruby/object:Libra::Author
+    name: Shaniya Wolff
+    biography: Eum qui tamdiu apto cum cena una ademptio textilis textor abundans.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &114 !ruby/object:Libra::Author
+    name: Buck Wyman
+    biography: Baiulus considero spiritus uberrime tum ascisco crebro certe conspergo
+      confido verecundia tristis assentator capio et velut deripio agnosco cibus.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &79 !ruby/object:Libra::Author
+    name: Therese Price
+    biography: Ascit ut sursum repellat excepturi tribuo ascisco unus admitto capto
+      crur voluptatem timidus complectus occaecati veniam.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *71
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *72
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *73
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *19
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *47
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &107 !ruby/object:Libra::Author
+    name: Kyle Johns
+    biography: Viridis amissio vilicus auctus ipsum dolores crustulum dapifer sui
+      ascit patruus est supra vilis virga aut vitae tenus eum terebro votum pecunia
+      stella.
+- &394 !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *13
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *74
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &238 !ruby/object:Libra::Author
+    name: Kameron Dibbert
+    biography: Tamen aestus quis et truculenter amo speciosus culpo cui.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *49
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &217 !ruby/object:Libra::Author
+    name: Kyla Treutel
+    biography: Sui cotidie constans quasi vinum suggero cunctatio commodo animadverto
+      acidus umerus socius asperiores tristis alius auctor sit audentia condico cohibeo
+      quis.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &153 !ruby/object:Libra::Author
+    name: Mr. Issac Lueilwitz
+    biography: Necessitatibus sollers villa theologus bonus at tardus subvenio quia
+      absque vulgo spiculum casso utrum damnatio ut damno abutor tamquam error.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *75
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *63
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &170 !ruby/object:Libra::Author
+    name: Dameon Rau
+    biography: Solvo autus confero tero versus appositus arma catena.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *76
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *37
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &451 !ruby/object:Libra::Author
+    name: Priscilla Kuphal
+    biography: Canis odio bardus cauda admiratio tersus allatus verecundia blandior
+      solus amet adduco vulariter.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *77
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *78
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &120 !ruby/object:Libra::Author
+    name: Enos Rogahn
+    biography: Suffoco architecto conscendo valeo tepesco cunctatio crustulum aegre
+      claro.
+- &339 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &176 !ruby/object:Libra::Author
+    name: Ericka Boyle
+    biography: Delectatio paulatim comis territo sed acceptus delibero vorax sortitus
+      cogito cursus.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &212 !ruby/object:Libra::Author
+    name: Ryley Prohaska
+    biography: Aedificium canonicus vir coruscus solio reiciendis maiores eum accusator
+      conatus conicio usque blandior amplexus stillicidium adflicto derideo accipio
+      totidem utilis taceo via quaerat.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *79
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *80
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *81
+- &310 !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &121 !ruby/object:Libra::Author
+    name: Cheyenne Cole DVM
+    biography: Ut curia conduco caecus tibi acidus campana voluptatem capitulus.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *9
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &177 !ruby/object:Libra::Author
+    name: Deon Jenkins
+    biography: Decimus vesco triumphus arma iusto crudelis pel crur animadverto suffoco
+      benevolentia corona sustineo teres vester.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *82
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *83
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &422 !ruby/object:Libra::Author
+    name: Laila Baumbach
+    biography: Amaritudo est valde sunt autem optio trans conspergo nihil charisma
+      demens velociter culpo asper auctus corpus teneo.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *84
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &147 !ruby/object:Libra::Author
+    name: Haskell Upton
+    biography: "."
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &119 !ruby/object:Libra::Author
+    name: Claudie Senger II
+    biography: Constans cado animi confugo vilicus adsuesco subvenio demitto annus
+      depereo sub solitudo reprehenderit.
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *82
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *52
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *16
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &149 !ruby/object:Libra::Author
+    name: Ewald Hartmann PhD
+    biography: Timor armarium astrum speciosus auxilium ventus tenus quos tergo demens
+      titulus abstergo tonsor vado cunae.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &413 !ruby/object:Libra::Author
+    name: Ms. Efrain Stoltenberg
+    biography: Tredecim confugo unus angustus adicio carus artificiose utor vulgo
+      vito caste labore voluptatibus attollo autus celebrer.
+- &356 !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &97 !ruby/object:Libra::Author
+    name: Benjamin Prosacco Sr.
+    biography: Modi omnis articulus tero voluptate tendo curatio deficio omnis despecto
+      cometes corpus suppono tui abscido aestivus curriculum denuncio.
+- &302 !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &89 !ruby/object:Libra::Author
+    name: Lia Bechtelar
+    biography: Talio voluptatum considero deripio ante titulus desipio facilis celo
+      certus derelinquo vinco desparatus stultus supra aestas venio charisma benevolentia
+      apud.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &144 !ruby/object:Libra::Author
+    name: Taya Heidenreich II
+    biography: Brevis una celer molestiae valeo conatus tres ambulo amita cupiditas
+      thymbra accusator dedecor deorsum est aequus.
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: &255 !ruby/object:Libra::Author
+    name: Sandrine Treutel
+    biography: Despecto tenus cupiditas concedo.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &141 !ruby/object:Libra::Author
+    name: Jailyn Herman
+    biography: Demens absum theca reprehenderit valde currus barba autus admiratio
+      voluptates maiores cogo comedo facere totam contabesco antea quia.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &171 !ruby/object:Libra::Author
+    name: Wilson Turcotte
+    biography: Templum vacuus adipisci optio colloco comburo adipiscor correptius
+      omnis exercitationem viscus caelum ipsum canis.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *85
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *86
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *87
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *32
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &93 !ruby/object:Libra::Author
+    name: Eleanore Treutel
+    biography: Adiuvo vomica rerum sit crepusculum adfectus aeternus tandem cito cernuus
+      demo vel aperte animi iste mollitia excepturi comminor capio pecus animi.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *23
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *29
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *88
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *71
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &196 !ruby/object:Libra::Author
+    name: Tia Hirthe
+    biography: Argumentum degusto pectus somnus blanditiis soleo ullam cui amplitudo
+      in trepide aro non voluptas sequi adamo aperio rem.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *89
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &163 !ruby/object:Libra::Author
+    name: Bartholome Rath
+    biography: "."
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *13
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *8
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *90
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *91
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *92
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *54
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *93
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &174 !ruby/object:Libra::Author
+    name: Florencio Leuschke III
+    biography: Tero vado magnam deorsum cohors conservo.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *45
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &104 !ruby/object:Libra::Author
+    name: Celestine Hauck
+    biography: Magni confero denego suffragium ipsa libero vorago.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *91
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &258 !ruby/object:Libra::Author
+    name: Colten Nienow
+    biography: Tribuo audio compono ut timor acervus voluptas crebro temperantia.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *94
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *85
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *15
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *62
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *38
+- &392 !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *95
+- &295 !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *96
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *97
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *81
+- &383 !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *25
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *77
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *98
+- &357 !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *85
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *99
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &429 !ruby/object:Libra::Author
+    name: Dr. Jerald Marvin
+    biography: Adficio decerno cupiditas tergo argentum.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &115 !ruby/object:Libra::Author
+    name: Makenzie Reichert
+    biography: Venio summopere vereor cum vulgus utilis curvo cerno nisi earum eos
+      aut comptus sapiente audio volup cito animi degenero.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *100
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *101
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *102
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *24
+- &366 !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *103
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *104
+- &276 !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *105
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *106
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *62
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *107
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *108
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *109
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &232 !ruby/object:Libra::Author
+    name: Annetta Williamson
+    biography: Adsuesco cogito molestiae tergo dolores tibi vallum torrens angulus
+      coniecto verumtamen quia comburo aranea.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *110
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &158 !ruby/object:Libra::Author
+    name: Jolie Brown
+    biography: Tutamen.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &161 !ruby/object:Libra::Author
+    name: Mrs. Destiny Mills
+    biography: Suscipio tam tutis amo accusantium accommodo antepono comitatus unde
+      tantum autem thymum anser ambitus nihil sodalitas derelinquo doloremque.
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *111
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *112
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *9
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *113
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *114
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &173 !ruby/object:Libra::Author
+    name: Tad Lemke
+    biography: Pecunia degero sursum textilis eaque.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *42
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &186 !ruby/object:Libra::Author
+    name: Yvonne Grady MD
+    biography: Ait rerum utroque angustus delicate provident tremo ultio nihil non
+      aufero.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *26
+- &365 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *59
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *22
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &224 !ruby/object:Libra::Author
+    name: Kurt Kuhn
+    biography: Baiulus vinco eius aiunt bene vel concido dicta trucido quibusdam bos
+      succedo.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *115
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *68
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *116
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *34
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *79
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *117
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *118
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *119
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &184 !ruby/object:Libra::Author
+    name: Mrs. Judah Schuppe
+    biography: Autus recusandae tempus tricesimus.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *76
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *120
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *113
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *121
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &182 !ruby/object:Libra::Author
+    name: Lazaro Hickle
+    biography: Qui qui caute absque aspicio asporto triumphus occaecati atrox xiphias
+      quasi qui cicuta.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *70
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: &143 !ruby/object:Libra::Author
+    name: Mrs. Janae Lehner
+    biography: Ex vulnero cimentarius quibusdam conitor crastinus ut attollo terebro
+      et.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *122
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *59
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &154 !ruby/object:Libra::Author
+    name: Hope Lang
+    biography: Laborum confido synagoga adhaero certo antea placeat adimpleo cicuta
+      denique sodalitas libero desino ut.
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *123
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *124
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *125
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &226 !ruby/object:Libra::Author
+    name: Misael Langosh II
+    biography: Termes aut temporibus tabesco carcer video.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &205 !ruby/object:Libra::Author
+    name: Hazel Hyatt
+    biography: Aut apostolus super verto et ago desparatus anser aestivus quo admoveo
+      demonstro nihil suadeo cognatus defendo curiositas viduo trado.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *93
+- &313 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *126
+- &300 !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &194 !ruby/object:Libra::Author
+    name: Kip Ankunding II
+    biography: Ratione volubilis tenuis tener aufero sit contabesco autus verbera
+      averto damno omnis beatus delectus suscipit debitis triumphus vesper agnosco
+      certo.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *91
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *74
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *127
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *50
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *128
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *129
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *66
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: &175 !ruby/object:Libra::Author
+    name: Jennings Ernser
+    biography: Bardus quisquam labore balbus spoliatio celer thema.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *98
+- &296 !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &231 !ruby/object:Libra::Author
+    name: Miss Elsa Zemlak
+    biography: Pauci derideo ceno avoco curto curia bellicus victus colligo cohors
+      aro brevis decens subvenio tergo denuncio cui ante clam similique.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *76
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *54
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &172 !ruby/object:Libra::Author
+    name: Ms. Jacklyn Zieme
+    biography: "."
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *130
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *62
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &444 !ruby/object:Libra::Author
+    name: Rose Conn
+    biography: In hic callide ager concido thymbra tres.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &430 !ruby/object:Libra::Author
+    name: Eliezer Johns
+    biography: Celo theatrum aedificium debilito.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *26
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *33
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *131
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *56
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *9
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *115
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &445 !ruby/object:Libra::Author
+    name: Payton Gerhold
+    biography: Voluptatem caecus aduro veniam molestiae angustus debilito alius aestus
+      depereo vulgus dapifer creo alias curriculum tardus deputo templum.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *29
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *132
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *35
+- &284 !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *133
+- &309 !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &437 !ruby/object:Libra::Author
+    name: Baby Jacobi
+    biography: Adflicto taedium ara quis aeger theca vulnus suspendo patria conspergo.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &198 !ruby/object:Libra::Author
+    name: Vito Schowalter Sr.
+    biography: Coniuratio aufero utique amissio via depraedor corona taedium officiis
+      rem.
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *134
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *124
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *135
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *53
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *7
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *30
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *130
+- &311 !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *9
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *136
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *137
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *7
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *138
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *98
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *22
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *107
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &218 !ruby/object:Libra::Author
+    name: Jayce Feeney
+    biography: Acerbitas admoneo apparatus conspergo aggredior vergo corporis talio
+      ullam porro turbo adnuo charisma abutor unde sonitus alo usus vindico sponte.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *139
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *140
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &197 !ruby/object:Libra::Author
+    name: Miller Morar
+    biography: Adiuvo audeo suspendo viridis curis sordeo admitto correptius sed eius.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *141
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &159 !ruby/object:Libra::Author
+    name: Betsy Yundt
+    biography: Sumo aveho asperiores sollicito.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *123
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &157 !ruby/object:Libra::Author
+    name: Ludwig Dibbert
+    biography: Vacuus utpote arguo trado nobis congregatio ventosus cribro voluptatem
+      solus qui depereo sodalitas voluptate suppellex arceo.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *142
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *143
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *144
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *145
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &240 !ruby/object:Libra::Author
+    name: Verona Paucek
+    biography: Agnosco uterque confido bonus cetera perspiciatis amoveo crudelis crinis
+      coniuratio ait creo demitto omnis arceo cotidie strenuus.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *146
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *76
+- &348 !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *117
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *94
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &204 !ruby/object:Libra::Author
+    name: Lolita Okuneva
+    biography: Titulus attollo curso somnus viduata dolor caute adultus adamo est
+      vir copiose compono eaque conventus quaerat delibero.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *47
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *147
+- &308 !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *148
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *140
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &241 !ruby/object:Libra::Author
+    name: Mr. Maxine Weissnat
+    biography: Comburo arto error perspiciatis praesentium curiositas adimpleo nobis
+      caveo ex valde celer tenetur tergiversatio ulciscor colligo.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *57
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &438 !ruby/object:Libra::Author
+    name: Clotilde McLaughlin DDS
+    biography: Et voluptas volaticus coruscus uterque.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *149
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *150
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *151
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *152
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *153
+- &361 !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *42
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: &402 !ruby/object:Libra::Author
+    name: Manley Connelly
+    biography: Conicio crapula validus decens crux hic ceno caute solus sum ulciscor
+      ut sint alius.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *26
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &201 !ruby/object:Libra::Author
+    name: Martin Bauch
+    biography: Animadverto conservo articulus sequi clamo aqua strenuus animi coma
+      comis solum voluptatem exercitationem crudelis vereor vivo audeo.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *79
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &193 !ruby/object:Libra::Author
+    name: Jevon Jones
+    biography: Cohors aequitas quis ascisco vomer qui autus sed quasi sequi depromo
+      terror triduana degenero ratione creta tenus crudelis et amplus.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *154
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &259 !ruby/object:Libra::Author
+    name: Evangeline Macejkovic III
+    biography: Defungo delego confugo clibanus statim.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *92
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *155
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *156
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *157
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *150
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &233 !ruby/object:Libra::Author
+    name: Dayna Conn
+    biography: Creo despecto universe thesis nulla abundans voluptatem ex despirmatio
+      tubineus tergum colloco ara arbitro ocer.
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *158
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *19
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *128
+- &341 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *89
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *159
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *41
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *91
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *73
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *160
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &253 !ruby/object:Libra::Author
+    name: Filiberto Hoeger
+    biography: Claustrum apparatus caput arcesso ciminatio maiores conor doloremque
+      acidus aperio volva voluntarius.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &206 !ruby/object:Libra::Author
+    name: Bertha Schimmel
+    biography: Conculco thymbra avaritia labore at.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *25
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *161
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *137
+- &342 !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *23
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *162
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &251 !ruby/object:Libra::Author
+    name: Zander Bogan
+    biography: Aeneus certo iusto tempus pecunia versus debeo vinculum cognatus amiculum.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *51
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *163
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *164
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &179 !ruby/object:Libra::Author
+    name: Tyra Rodriguez
+    biography: Statua amiculum absque certus corrigo contego tepidus casus vaco.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *165
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *166
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *140
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *100
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *64
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &249 !ruby/object:Libra::Author
+    name: Lorna Boyer
+    biography: Cauda vesper usus sufficio amiculum vacuus perspiciatis angelus supra
+      deinde.
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *18
+- &337 !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &245 !ruby/object:Libra::Author
+    name: Virgie Ernser
+    biography: Decretum capto doloribus valens auctus qui cursim valetudo.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *135
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *92
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *1
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *36
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *118
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *167
+- &323 !ruby/object:Libra::Book
+  title: Burning Water
+  author: &450 !ruby/object:Libra::Author
+    name: Clinton Cruickshank
+    biography: Stipes speciosus clamo caelum tero qui tubineus libero nihil derideo.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *25
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: &202 !ruby/object:Libra::Author
+    name: Dorian Schaefer
+    biography: Tondeo dedecor compono tracto expedita suspendo ultio tumultus somnus
+      cena tener et timidus adstringo caute animadverto addo auctor ut talis.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *154
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *145
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &423 !ruby/object:Libra::Author
+    name: Hank Koepp
+    biography: Tricesimus deludo magni delectus veritatis maxime alii aetas alter
+      tenuis pecus suus.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *166
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *168
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *169
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &424 !ruby/object:Libra::Author
+    name: Carissa Bosco II
+    biography: Curia adfero nemo saepe.
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &209 !ruby/object:Libra::Author
+    name: Jacynthe Hermiston
+    biography: Celer sursum tabernus.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *170
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: &447 !ruby/object:Libra::Author
+    name: Joshuah Thiel
+    biography: Amita aliquid error peior a custodia pel creber aureus tyrannus vester.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *69
+- &351 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *171
+- &354 !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *120
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *57
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &399 !ruby/object:Libra::Author
+    name: Lance Homenick
+    biography: Basium conicio tabella ventito apostolus vulgaris congregatio vero
+      spiritus certo venustas vigilo tener.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *77
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *163
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *172
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *173
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *174
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *175
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &244 !ruby/object:Libra::Author
+    name: Oda Rath I
+    biography: Placeat deripio minus absconditus magni voluptatem anser.
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &262 !ruby/object:Libra::Author
+    name: Tyrese Dickens
+    biography: Sui decet traho arx patrocinor pecus enim provident careo tracto eligendi
+      videlicet testimonium auditor derideo.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *141
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &199 !ruby/object:Libra::Author
+    name: Ms. Curt Crist
+    biography: Sopor conqueror.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *116
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *20
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *171
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &459 !ruby/object:Libra::Author
+    name: Dorthy Lueilwitz
+    biography: Comparo condico.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &211 !ruby/object:Libra::Author
+    name: Darion Willms
+    biography: Sodalitas qui approbo sursum adfectus deporto tam derelinquo concedo
+      aliqua utrum spargo quam antepono despecto et architecto perferendis contego.
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *176
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *177
+- &326 !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &229 !ruby/object:Libra::Author
+    name: Winifred Powlowski
+    biography: Videlicet celebrer possimus amplexus subiungo demulceo tabgo appositus
+      qui beatus tutis coruscus triumphus tener vulgivagus tenetur.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *66
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *178
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *179
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *59
+- &322 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *180
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &185 !ruby/object:Libra::Author
+    name: Loy Beier
+    biography: Campana synagoga tonsor uredo adulescens ipsa dedecor tripudio crux
+      quaerat tardus voluntarius communis utpote laborum stella derideo tamen creptio
+      aggero.
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *38
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *181
+- &372 !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *182
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &243 !ruby/object:Libra::Author
+    name: Braxton Tillman PhD
+    biography: Tristis possimus admoveo vitium sonitus conduco deprimo contra sit
+      brevis nostrum usitas subnecto odio venustas ago ubi vinitor quia.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *183
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *48
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: &200 !ruby/object:Libra::Author
+    name: Miss Jack Gorczany
+    biography: Conor vivo chirographum doloremque votum textus denuncio tactus illo
+      armo.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *184
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *185
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *186
+- &327 !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *117
+- &325 !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *145
+- &346 !ruby/object:Libra::Book
+  title: Free Parking
+  author: *51
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *36
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *156
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *66
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *32
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *138
+- &299 !ruby/object:Libra::Book
+  title: Burning Water
+  author: *111
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *187
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *188
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &246 !ruby/object:Libra::Author
+    name: Jazmin Bergnaum
+    biography: Comitatus cohaero apud cunae vero bibo nostrum magnam reprehenderit
+      tam avarus verecundia inventore spiritus culpa crur.
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *189
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *84
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *151
+- &290 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *190
+- &331 !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *141
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *52
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *30
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *165
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *30
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *103
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *115
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *32
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *172
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *53
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: &426 !ruby/object:Libra::Author
+    name: Antoinette Wilkinson
+    biography: Basium suadeo attonbitus vesper tergo sunt error tres talus tubineus
+      uberrime iusto derelinquo libero neque pauper vigilo cervus tergum placeat candidus
+      est amiculum sulum.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *55
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *121
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *88
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *191
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *87
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *35
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *192
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *40
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *193
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *93
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &252 !ruby/object:Libra::Author
+    name: Benjamin Davis
+    biography: Decerno solutio ciminatio ut asporto suasoria adhaero voluptatem celer
+      ater casso.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: &441 !ruby/object:Libra::Author
+    name: Maryse Hermann
+    biography: Ullam velit iste damnatio consequatur decimus modi cui bestia condico
+      statim.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *75
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *191
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *194
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *130
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *101
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *195
+- &345 !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *27
+- &280 !ruby/object:Libra::Book
+  title: Free Parking
+  author: *196
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *29
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *10
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *197
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *198
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *199
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *105
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *200
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &271 !ruby/object:Libra::Author
+    name: Jarret Hahn
+    biography: Depraedor non curto socius sui tabula carpo ascisco pax vinum aegrotatio
+      dens autus suppono tenuis asper conatus aeternus tubineus.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *201
+- &386 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &247 !ruby/object:Libra::Author
+    name: Vincenzo Torp
+    biography: Bene videlicet benigne supellex.
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *202
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *203
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *65
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *204
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &236 !ruby/object:Libra::Author
+    name: Art O'Connell
+    biography: Tersus consuasor abstergo deputo cimentarius cogo maxime vaco sit abscido
+      video amissio dolore venio cunabula ter decerno.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *205
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *206
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *68
+- &286 !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *207
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *208
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *209
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *189
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *210
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *77
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &432 !ruby/object:Libra::Author
+    name: Ona Lemke
+    biography: Vitium sed colloco verumtamen sopor.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *205
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *211
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *8
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *210
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *61
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *27
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *154
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *84
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *212
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *213
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *111
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *73
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *214
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *180
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *102
+- &364 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *26
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &457 !ruby/object:Libra::Author
+    name: Mr. Maiya Doyle
+    biography: Summisse cupio conservo deripio ambulo et a aperte placeat.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *29
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *200
+- &360 !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *175
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *183
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &412 !ruby/object:Libra::Author
+    name: Joanne Eichmann
+    biography: Aureus vindico comprehendo.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *215
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *104
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *142
+- &304 !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *10
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *216
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: &219 !ruby/object:Libra::Author
+    name: Rico Schulist
+    biography: Tego ascisco deleniti surgo corona cognatus cerno comminor supplanto
+      omnis veritatis.
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *217
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &242 !ruby/object:Libra::Author
+    name: Eldora Gerlach
+    biography: Maxime aggredior armarium carcer adeo sol admoneo sumptus vinitor taedium
+      suadeo carpo spiritus depono aegrotatio.
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *104
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *175
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *188
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *130
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *164
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: &452 !ruby/object:Libra::Author
+    name: Herta Schamberger
+    biography: Et adicio versus supellex comburo.
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *127
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *218
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *65
+- &289 !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *1
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *219
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *220
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *138
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &409 !ruby/object:Libra::Author
+    name: Lucius Harvey
+    biography: Deporto caelum crapula vestrum voluntarius tibi soluta bellum quaerat
+      beatae accommodo suspendo et allatus casso strues comes magni.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *64
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &400 !ruby/object:Libra::Author
+    name: Mya Leuschke
+    biography: Atque volaticus audacia cinis asper.
+- &283 !ruby/object:Libra::Book
+  title: Burning Water
+  author: *199
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *221
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *134
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *78
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *222
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *22
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *215
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &239 !ruby/object:Libra::Author
+    name: Idella Yundt
+    biography: Deleniti occaecati adamo super beneficium acer terror tandem undique
+      congregatio.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *107
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *78
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *26
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *218
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *66
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *223
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *224
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *135
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *167
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: &406 !ruby/object:Libra::Author
+    name: Herminia Blanda III
+    biography: Umbra commemoro esse facilis in auctor reprehenderit subnecto.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *60
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *85
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *44
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *225
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *226
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *190
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *227
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *228
+- &273 !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *229
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *230
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *219
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *67
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *137
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *231
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *47
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *18
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *124
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *66
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *232
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *233
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *42
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *55
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *189
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *181
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *181
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *146
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *169
+- &279 !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *9
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *234
+- &332 !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *95
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: &443 !ruby/object:Libra::Author
+    name: Kelvin Kreiger
+    biography: Corrupti audentia admoveo approbo pecunia animadverto vita talis solvo
+      est.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *174
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *187
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *71
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *235
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *236
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *110
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *180
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *211
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *111
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *237
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *69
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *238
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *210
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *98
+- &336 !ruby/object:Libra::Book
+  title: Falling Flags
+  author: &405 !ruby/object:Libra::Author
+    name: Rahsaan Ortiz IV
+    biography: Tempore hic cruciamentum cursus.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *239
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *231
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *22
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *58
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: &414 !ruby/object:Libra::Author
+    name: Sherman Lesch
+    biography: Adsum atavus testimonium strues bonus aegre vesco vesper voluptatem
+      cum absconditus tabgo ut cena conor comedo torqueo.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *116
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *219
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *17
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *187
+- &288 !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *240
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *241
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &442 !ruby/object:Libra::Author
+    name: Emerson Jacobs
+    biography: Et victus absorbeo clam molestiae utor constans vulnero.
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *80
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *175
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *227
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *58
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *108
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *242
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *229
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *243
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *217
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *24
+- &281 !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &248 !ruby/object:Libra::Author
+    name: Treva Frami V
+    biography: Damnatio necessitatibus audentia absconditus arbor corona ancilla beatae
+      defendo consequatur comptus delibero cornu voco.
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *223
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *34
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *101
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *244
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *52
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *131
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: &425 !ruby/object:Libra::Author
+    name: Asa Bergstrom III
+    biography: Succurro at credo caelum et triginta sub porro adulatio surculus est
+      nemo curtus.
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *18
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *236
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *171
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &456 !ruby/object:Libra::Author
+    name: Ernest Hagenes
+    biography: Ambitus accusamus succedo derelinquo adhuc administratio sol admoneo
+      vicinus perferendis velum video decens.
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: &434 !ruby/object:Libra::Author
+    name: Matilde Kemmer
+    biography: Ante pel super canto ver cupiditas usitas.
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *101
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *53
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *245
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *109
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *246
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *148
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *41
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *122
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *235
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *247
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *164
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *65
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *248
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *79
+- &375 !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *39
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: &411 !ruby/object:Libra::Author
+    name: Camila Homenick
+    biography: Capillus celer eum amita succurro clibanus color depereo cumque adstringo
+      accedo contra tepesco bestia tumultus auctus carbo omnis arto creo.
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *73
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *153
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *133
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *88
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *249
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *15
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *149
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *199
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *250
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *219
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *33
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *55
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *83
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *211
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *151
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *251
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &260 !ruby/object:Libra::Author
+    name: Dr. Kendra Weimann
+    biography: Vester comprehendo caecus amoveo tum charisma dapifer omnis virga baiulus
+      varius aspicio.
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: &431 !ruby/object:Libra::Author
+    name: Mr. Ernest Wuckert
+    biography: Ascisco torqueo vergo usus tum synagoga debilito sunt demoror officia
+      angulus attollo culpa ultra aspernatur cubo crux recusandae cura.
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *150
+- &382 !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *115
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *190
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *201
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *60
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *199
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *51
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *91
+- &373 !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *238
+- &306 !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *92
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *158
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *189
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *5
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *110
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *121
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *223
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *235
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *73
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *3
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *182
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *194
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: &270 !ruby/object:Libra::Author
+    name: Dock Beier
+    biography: Quae cervus acquiro.
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *8
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *208
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *19
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *163
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *51
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *67
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *111
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *226
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *111
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *93
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *21
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *14
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *252
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *135
+- &367 !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *193
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *108
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *89
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *253
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *254
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *148
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: &428 !ruby/object:Libra::Author
+    name: Neal Cormier
+    biography: Sit adamo crur rerum distinctio color vacuus sto verumtamen tondeo
+      tantillus nesciunt clamo quo commemoro complectus facilis studio ipsum correptius
+      aiunt venia.
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *255
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *163
+- &381 !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *1
+- !ruby/object:Libra::Book
+  title: Free Parking
+  author: *217
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *239
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *153
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *129
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *64
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *105
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *34
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: &433 !ruby/object:Libra::Author
+    name: Lindsay Mosciski III
+    biography: Apto consectetur comminor eos clam canonicus quam ver summisse.
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *77
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *140
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *104
+- &387 !ruby/object:Libra::Book
+  title: Free Parking
+  author: *19
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *248
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *210
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *130
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *106
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *180
+- !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *256
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *178
+- &362 !ruby/object:Libra::Book
+  title: The Frog Catchers Field Manual
+  author: *202
+- !ruby/object:Libra::Book
+  title: What Lives on Pluto
+  author: *13
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *257
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *217
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *258
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *64
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *155
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *133
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *132
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *259
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *260
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *30
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *21
+- !ruby/object:Libra::Book
+  title: Burning Water
+  author: *15
+- !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *260
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: &410 !ruby/object:Libra::Author
+    name: Anissa Ziemann DVM
+    biography: Ater termes vulgivagus numquam aduro aperio basium conservo cibus desolo
+      vivo acervus cibo tertius asper decerno barba abbas ultio quisquam.
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *261
+- !ruby/object:Libra::Book
+  title: Next Day Previous Night
+  author: *202
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *262
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *8
+- &352 !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *148
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *263
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *97
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: &403 !ruby/object:Libra::Author
+    name: Wilma Heidenreich
+    biography: Approbo viduata in conventus synagoga titulus asperiores defetiscor
+      quia.
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *169
+- !ruby/object:Libra::Book
+  title: No Lonely Stars
+  author: *207
+- &340 !ruby/object:Libra::Book
+  title: Future Discretions
+  author: *178
+- !ruby/object:Libra::Book
+  title: Finding a New Sun
+  author: *22
+- !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *42
+- &380 !ruby/object:Libra::Book
+  title: The Zookeeper and Her Tiger
+  author: *264
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *98
+- &334 !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *163
+- !ruby/object:Libra::Book
+  title: The Odd Sister
+  author: *265
+- !ruby/object:Libra::Book
+  title: Tomato in the Window
+  author: *266
+- &328 !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *267
+- !ruby/object:Libra::Book
+  title: Ready, Set, Die
+  author: *210
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *169
+- !ruby/object:Libra::Book
+  title: A Dozen Heros
+  author: *150
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *201
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *229
+- !ruby/object:Libra::Book
+  title: Stop Asking, Just Do
+  author: *268
+- &321 !ruby/object:Libra::Book
+  title: Burning Water
+  author: *198
+- !ruby/object:Libra::Book
+  title: Candy For Two
+  author: *185
+- !ruby/object:Libra::Book
+  title: A Year of Walking
+  author: *104
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *269
+- !ruby/object:Libra::Book
+  title: Keyboard For Hire
+  author: *269
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *172
+- !ruby/object:Libra::Book
+  title: Fishing With Chips
+  author: *113
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *173
+- !ruby/object:Libra::Book
+  title: Same Way Through
+  author: *173
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *172
+- !ruby/object:Libra::Book
+  title: Walking and Running
+  author: *67
+- !ruby/object:Libra::Book
+  title: Falling Flags
+  author: *270
+- !ruby/object:Libra::Book
+  title: Slicker Than Rain
+  author: *250
+- !ruby/object:Libra::Book
+  title: Covered and Warm
+  author: *271
+orders:
+- !ruby/object:Libra::Order
+  book: *272
+  reader: &274 !ruby/object:Libra::Reader
+    name: Kaia Bergstrom IV
+    email: mortimer@altenwerth.io
+    city: Dayneport
+    street: Tania Passage
+    house: '7208'
+- !ruby/object:Libra::Order
+  book: *273
+  reader: *274
+- !ruby/object:Libra::Order
+  book: *275
+  reader: &312 !ruby/object:Libra::Reader
+    name: Oda Mills
+    email: martin@torphy.org
+    city: Jarretville
+    street: O'Kon Bypass
+    house: '177'
+- !ruby/object:Libra::Order
+  book: *276
+  reader: &298 !ruby/object:Libra::Reader
+    name: Mrs. Archibald Braun
+    email: skyla@haley.co
+    city: Baumbachmouth
+    street: Dayna Drive
+    house: '95021'
+- !ruby/object:Libra::Order
+  book: *277
+  reader: &282 !ruby/object:Libra::Reader
+    name: Ada Mann
+    email: ali.sanford@johns.name
+    city: New Quintonmouth
+    street: Haley Green
+    house: '383'
+- !ruby/object:Libra::Order
+  book: *278
+  reader: &314 !ruby/object:Libra::Reader
+    name: Modesta Mayer
+    email: karina_botsford@creminpacocha.net
+    city: Port Guyview
+    street: Alexandrea Terrace
+    house: '9642'
+- !ruby/object:Libra::Order
+  book: *279
+  reader: &294 !ruby/object:Libra::Reader
+    name: Ms. Mayra Sporer
+    email: audrey@kemmermoore.info
+    city: Nashland
+    street: Maci Field
+    house: '2276'
+- !ruby/object:Libra::Order
+  book: *280
+  reader: &285 !ruby/object:Libra::Reader
+    name: Kendrick Mayer
+    email: janick_corwin@durgan.biz
+    city: South Gayle
+    street: Moen Hill
+    house: '617'
+- !ruby/object:Libra::Order
+  book: *281
+  reader: *282
+- !ruby/object:Libra::Order
+  book: *283
+  reader: &353 !ruby/object:Libra::Reader
+    name: Annette Walker
+    email: rosemary@legros.co
+    city: Rolfsonbury
+    street: Hickle Courts
+    house: '181'
+- !ruby/object:Libra::Order
+  book: *284
+  reader: *285
+- !ruby/object:Libra::Order
+  book: *286
+  reader: &320 !ruby/object:Libra::Reader
+    name: Alicia Champlin Jr.
+    email: jazmyn@leuschke.biz
+    city: East Maia
+    street: Candelario Landing
+    house: '835'
+- !ruby/object:Libra::Order
+  book: *287
+  reader: *274
+- !ruby/object:Libra::Order
+  book: *288
+  reader: *285
+- !ruby/object:Libra::Order
+  book: *289
+  reader: &398 !ruby/object:Libra::Reader
+    name: Elroy Harvey
+    email: rupert.nader@littel.info
+    city: South Adolf
+    street: Larissa Crest
+    house: '157'
+- !ruby/object:Libra::Order
+  book: *290
+  reader: &371 !ruby/object:Libra::Reader
+    name: Tyra Johns
+    email: rosie.cormier@littel.co
+    city: Robertohaven
+    street: Jakob Circle
+    house: '672'
+- !ruby/object:Libra::Order
+  book: *291
+  reader: &307 !ruby/object:Libra::Reader
+    name: Abdiel Schneider
+    email: bulah@johnsrogahn.co
+    city: Abigailmouth
+    street: Willow Drives
+    house: '8447'
+- !ruby/object:Libra::Order
+  book: *292
+  reader: &303 !ruby/object:Libra::Reader
+    name: Gino Sawayn
+    email: nyah@dibbert.io
+    city: East Nataliamouth
+    street: Zane Forest
+    house: '7216'
+- !ruby/object:Libra::Order
+  book: *293
+  reader: *294
+- !ruby/object:Libra::Order
+  book: *295
+  reader: &396 !ruby/object:Libra::Reader
+    name: Evans Runolfsdottir
+    email: matilde@davisadams.co
+    city: New Ettieton
+    street: Kirsten Mountain
+    house: '8624'
+- !ruby/object:Libra::Order
+  book: *296
+  reader: &316 !ruby/object:Libra::Reader
+    name: Dr. Van Zemlak
+    email: agustin@bechtelarhoppe.com
+    city: Selinaburgh
+    street: Hoeger Courts
+    house: '86652'
+- !ruby/object:Libra::Order
+  book: *297
+  reader: *298
+- !ruby/object:Libra::Order
+  book: *299
+  reader: &333 !ruby/object:Libra::Reader
+    name: Dr. Verla Hettinger
+    email: dion_witting@heelreynolds.info
+    city: Pasqualeborough
+    street: Krajcik Mill
+    house: '60752'
+- !ruby/object:Libra::Order
+  book: *300
+  reader: *274
+- !ruby/object:Libra::Order
+  book: *301
+  reader: &330 !ruby/object:Libra::Reader
+    name: Harry Mitchell
+    email: dorris@toy.info
+    city: New Shayleeberg
+    street: Schiller Tunnel
+    house: '353'
+- !ruby/object:Libra::Order
+  book: *302
+  reader: *303
+- !ruby/object:Libra::Order
+  book: *304
+  reader: &358 !ruby/object:Libra::Reader
+    name: Isabell Brekke
+    email: edwina_davis@predovic.io
+    city: West Marge
+    street: Durgan Landing
+    house: '19719'
+- !ruby/object:Libra::Order
+  book: *305
+  reader: *303
+- !ruby/object:Libra::Order
+  book: *306
+  reader: *307
+- !ruby/object:Libra::Order
+  book: *308
+  reader: *285
+- !ruby/object:Libra::Order
+  book: *309
+  reader: &397 !ruby/object:Libra::Reader
+    name: Mrs. Maymie Koepp
+    email: elaina@heidenreich.com
+    city: New Hazel
+    street: Champlin Shoals
+    house: '261'
+- !ruby/object:Libra::Order
+  book: *310
+  reader: &343 !ruby/object:Libra::Reader
+    name: Hope Reichel
+    email: julio@kelergreenfelder.info
+    city: Padbergmouth
+    street: Jacklyn Parks
+    house: '5125'
+- !ruby/object:Libra::Order
+  book: *311
+  reader: *312
+- !ruby/object:Libra::Order
+  book: *313
+  reader: *314
+- !ruby/object:Libra::Order
+  book: *315
+  reader: *316
+- !ruby/object:Libra::Order
+  book: *317
+  reader: &389 !ruby/object:Libra::Reader
+    name: Rigoberto Ratke
+    email: haley@fritsch.io
+    city: Heidenreichshire
+    street: Omer Shoals
+    house: '8510'
+- !ruby/object:Libra::Order
+  book: *318
+  reader: *307
+- !ruby/object:Libra::Order
+  book: *319
+  reader: *320
+- !ruby/object:Libra::Order
+  book: *308
+  reader: &350 !ruby/object:Libra::Reader
+    name: Ashtyn Hermann Jr.
+    email: macey_emard@schuppedaugherty.co
+    city: Labadiestad
+    street: Marcia Squares
+    house: '3347'
+- !ruby/object:Libra::Order
+  book: *321
+  reader: *314
+- !ruby/object:Libra::Order
+  book: *322
+  reader: *314
+- !ruby/object:Libra::Order
+  book: *323
+  reader: &335 !ruby/object:Libra::Reader
+    name: Kiana Cummings
+    email: jaeden@bayerokon.org
+    city: Port Abdullah
+    street: Kling Center
+    house: '908'
+- !ruby/object:Libra::Order
+  book: *324
+  reader: &338 !ruby/object:Libra::Reader
+    name: Ellie Hoppe
+    email: cristobal@gleichner.biz
+    city: New Oma
+    street: Delia Expressway
+    house: '612'
+- !ruby/object:Libra::Order
+  book: *325
+  reader: *294
+- !ruby/object:Libra::Order
+  book: *326
+  reader: *307
+- !ruby/object:Libra::Order
+  book: *327
+  reader: *274
+- !ruby/object:Libra::Order
+  book: *328
+  reader: *285
+- !ruby/object:Libra::Order
+  book: *329
+  reader: *330
+- !ruby/object:Libra::Order
+  book: *331
+  reader: *285
+- !ruby/object:Libra::Order
+  book: *332
+  reader: *333
+- !ruby/object:Libra::Order
+  book: *334
+  reader: *335
+- !ruby/object:Libra::Order
+  book: *336
+  reader: &378 !ruby/object:Libra::Reader
+    name: Toy Gusikowski
+    email: zachary.skiles@bechtelar.co
+    city: Rooseveltview
+    street: Mohammed Parkway
+    house: '994'
+- !ruby/object:Libra::Order
+  book: *337
+  reader: *338
+- !ruby/object:Libra::Order
+  book: *339
+  reader: *333
+- !ruby/object:Libra::Order
+  book: *340
+  reader: *303
+- !ruby/object:Libra::Order
+  book: *341
+  reader: *335
+- !ruby/object:Libra::Order
+  book: *342
+  reader: *343
+- !ruby/object:Libra::Order
+  book: *344
+  reader: *307
+- !ruby/object:Libra::Order
+  book: *345
+  reader: &385 !ruby/object:Libra::Reader
+    name: Brandyn Farrell III
+    email: thalia@ebert.net
+    city: Seamusmouth
+    street: Schuppe Parkway
+    house: '99554'
+- !ruby/object:Libra::Order
+  book: *346
+  reader: *298
+- !ruby/object:Libra::Order
+  book: *347
+  reader: *335
+- !ruby/object:Libra::Order
+  book: *348
+  reader: *307
+- !ruby/object:Libra::Order
+  book: *349
+  reader: *350
+- !ruby/object:Libra::Order
+  book: *351
+  reader: *320
+- !ruby/object:Libra::Order
+  book: *352
+  reader: *353
+- !ruby/object:Libra::Order
+  book: *354
+  reader: *274
+- !ruby/object:Libra::Order
+  book: *355
+  reader: *350
+- !ruby/object:Libra::Order
+  book: *356
+  reader: &374 !ruby/object:Libra::Reader
+    name: Samara Kohler Sr.
+    email: johnnie.hodkiewicz@wolff.name
+    city: Luettgenfort
+    street: Glover Rapids
+    house: '869'
+- !ruby/object:Libra::Order
+  book: *357
+  reader: *358
+- !ruby/object:Libra::Order
+  book: *359
+  reader: *338
+- !ruby/object:Libra::Order
+  book: *360
+  reader: &368 !ruby/object:Libra::Reader
+    name: Ms. Marietta Heidenreich
+    email: nelson_lind@fritschpagac.io
+    city: South Eltaville
+    street: Olga Island
+    house: '50450'
+- !ruby/object:Libra::Order
+  book: *361
+  reader: *338
+- !ruby/object:Libra::Order
+  book: *280
+  reader: *282
+- !ruby/object:Libra::Order
+  book: *362
+  reader: *274
+- !ruby/object:Libra::Order
+  book: *363
+  reader: *350
+- !ruby/object:Libra::Order
+  book: *364
+  reader: *335
+- !ruby/object:Libra::Order
+  book: *365
+  reader: *333
+- !ruby/object:Libra::Order
+  book: *366
+  reader: *350
+- !ruby/object:Libra::Order
+  book: *367
+  reader: *368
+- !ruby/object:Libra::Order
+  book: *369
+  reader: *343
+- !ruby/object:Libra::Order
+  book: *370
+  reader: *371
+- !ruby/object:Libra::Order
+  book: *372
+  reader: *338
+- !ruby/object:Libra::Order
+  book: *373
+  reader: *374
+- !ruby/object:Libra::Order
+  book: *375
+  reader: *307
+- !ruby/object:Libra::Order
+  book: *376
+  reader: *285
+- !ruby/object:Libra::Order
+  book: *377
+  reader: *378
+- !ruby/object:Libra::Order
+  book: *379
+  reader: *285
+- !ruby/object:Libra::Order
+  book: *380
+  reader: *358
+- !ruby/object:Libra::Order
+  book: *381
+  reader: *350
+- !ruby/object:Libra::Order
+  book: *382
+  reader: *374
+- !ruby/object:Libra::Order
+  book: *383
+  reader: *368
+- !ruby/object:Libra::Order
+  book: *384
+  reader: *385
+- !ruby/object:Libra::Order
+  book: *386
+  reader: *338
+- !ruby/object:Libra::Order
+  book: *387
+  reader: *374
+- !ruby/object:Libra::Order
+  book: *388
+  reader: *389
+- !ruby/object:Libra::Order
+  book: *390
+  reader: *320
+- !ruby/object:Libra::Order
+  book: *391
+  reader: *374
+- !ruby/object:Libra::Order
+  book: *392
+  reader: *338
+- !ruby/object:Libra::Order
+  book: *393
+  reader: *282
+- !ruby/object:Libra::Order
+  book: *394
+  reader: &395 !ruby/object:Libra::Reader
+    name: Marguerite Johns
+    email: raheem.towne@moriette.net
+    city: Solonborough
+    street: Jocelyn Plaza
+    house: '947'
+readers:
+- *395
+- *385
+- *274
+- *338
+- *358
+- *316
+- !ruby/object:Libra::Reader
+  name: Natalie Larson
+  email: lilliana_murazik@kuhlmanwelch.net
+  city: West Anselport
+  street: Esmeralda Trace
+  house: '378'
+- *343
+- *307
+- *374
+- *330
+- *294
+- *312
+- *350
+- *335
+- *320
+- *396
+- *285
+- *298
+- *314
+- *371
+- *282
+- *397
+- *333
+- *398
+- *389
+- *368
+- *303
+- *378
+- *353
+authors:
+- *243
+- *262
+- *399
+- *241
+- !ruby/object:Libra::Author
+  name: Ruthie Dibbert
+  biography: Vorax aspicio cognatus conspergo cinis volaticus ullus soleo decretum
+    laboriosam natus depulso.
+- *193
+- *122
+- *37
+- *214
+- *97
+- *270
+- *177
+- *83
+- *18
+- *254
+- *175
+- *400
+- *245
+- *401
+- *402
+- *32
+- *156
+- *199
+- *403
+- *158
+- *54
+- *404
+- *50
+- *200
+- *46
+- *405
+- *258
+- *406
+- *264
+- *407
+- *153
+- *250
+- *21
+- *181
+- *408
+- *196
+- *409
+- *195
+- *410
+- *185
+- *411
+- *179
+- *221
+- *265
+- *154
+- *248
+- *68
+- *167
+- *222
+- *22
+- *99
+- *412
+- *141
+- *110
+- *219
+- *151
+- *201
+- *413
+- *414
+- !ruby/object:Libra::Author
+  name: Aylin Koepp
+  biography: Tot omnis.
+- *176
+- *7
+- *189
+- *415
+- *31
+- !ruby/object:Libra::Author
+  name: Jamal Harvey
+  biography: Contigo quis omnis depono thermae saepe et vinitor admitto texo vita
+    autem valetudo audentia urbanus vilicus.
+- *72
+- *152
+- *108
+- *3
+- *253
+- *157
+- *82
+- *416
+- *184
+- *417
+- !ruby/object:Libra::Author
+  name: Lemuel Legros PhD
+  biography: Casus tristis officiis delectus aro volva vergo deleniti sublime terra
+    territo accommodo sollicito et.
+- *16
+- *240
+- *234
+- *104
+- *418
+- *1
+- *53
+- *15
+- *70
+- *419
+- *169
+- *5
+- *86
+- *212
+- !ruby/object:Libra::Author
+  name: Sarina Parker
+  biography: Appono facere terga.
+- *420
+- *123
+- *173
+- *38
+- *421
+- *238
+- *90
+- *111
+- *422
+- *423
+- *95
+- *42
+- *205
+- *143
+- *134
+- *88
+- *128
+- *69
+- *424
+- *188
+- *61
+- *28
+- *269
+- *20
+- *425
+- *81
+- *163
+- *106
+- *14
+- *426
+- *255
+- *64
+- *427
+- *218
+- *109
+- *120
+- *159
+- *231
+- *271
+- *102
+- *182
+- *98
+- *48
+- *428
+- *12
+- !ruby/object:Libra::Author
+  name: Jammie Ratke PhD
+  biography: Video theologus asperiores vulnero celebrer ter tondeo adeo caelestis
+    viduata amor cito.
+- *63
+- *138
+- *8
+- *6
+- *77
+- *4
+- *57
+- *155
+- *73
+- *125
+- *249
+- *148
+- *247
+- *252
+- *429
+- *115
+- *430
+- *260
+- *431
+- *213
+- !ruby/object:Libra::Author
+  name: Christophe Macejkovic MD
+  biography: Talis uberrime cognatus autem inventore.
+- !ruby/object:Libra::Author
+  name: Brenden Langosh
+  biography: Talus facere triginta barba tibi accusantium usus aspicio absum correptius
+    tabella quas cuppedia tremo careo autus.
+- *160
+- *92
+- !ruby/object:Libra::Author
+  name: Jessyca Hand
+  biography: Suscipio tergo conatus comburo summisse et caute ter coruscus cornu venia
+    pax denego viscus defluo via.
+- *172
+- *220
+- *239
+- *137
+- *130
+- *432
+- *133
+- *119
+- *256
+- *165
+- *149
+- *433
+- *116
+- *434
+- *266
+- *236
+- *13
+- *435
+- *436
+- *117
+- *178
+- *30
+- *192
+- *171
+- *26
+- *74
+- *33
+- *29
+- *198
+- *85
+- *251
+- *227
+- *60
+- *124
+- *101
+- *183
+- *235
+- *56
+- *206
+- *437
+- *118
+- *103
+- *40
+- *210
+- *10
+- *246
+- *438
+- *87
+- !ruby/object:Libra::Author
+  name: Otho Wunsch
+  biography: A theologus comptus spectaculum timor dolores triginta taceo dignissimos
+    ver synagoga coaegresco ultio amplexus bardus demonstro confugo comis.
+- *203
+- !ruby/object:Libra::Author
+  name: Lennie Sauer IV
+  biography: Debitis tametsi nesciunt ea casso demergo sursum comes valde.
+- *58
+- *257
+- *89
+- *237
+- *439
+- *144
+- *79
+- *76
+- *45
+- *440
+- *441
+- *136
+- *129
+- *204
+- *174
+- *232
+- *9
+- *170
+- *65
+- *442
+- *66
+- *41
+- *443
+- *166
+- *211
+- *194
+- *27
+- *52
+- *263
+- *209
+- *114
+- *126
+- *150
+- *146
+- *140
+- *444
+- *226
+- *224
+- *2
+- *75
+- *11
+- *39
+- *233
+- *112
+- *142
+- *93
+- *162
+- *145
+- *191
+- *17
+- *445
+- *186
+- *223
+- *107
+- *190
+- *51
+- *94
+- *446
+- !ruby/object:Libra::Author
+  name: Regan Von
+  biography: Tertius acsi vitiosus soluta speciosus aperte audentia tumultus aegrus
+    adamo ceno pauper.
+- *161
+- *268
+- *242
+- *447
+- *105
+- *448
+- *197
+- !ruby/object:Libra::Author
+  name: Paxton Dicki
+  biography: Suppono utor tyrannus vomer acerbitas artificiose vociferor dedecor curiositas.
+- *147
+- *132
+- *47
+- *139
+- *78
+- !ruby/object:Libra::Author
+  name: Ayden Bauch
+  biography: Audentia uxor alias molestiae attonbitus absum ullus trepide carpo validus
+    amitto benevolentia coruscus commodo quisquam vultuosus attero casso soleo.
+- *202
+- *91
+- *34
+- *84
+- *449
+- *44
+- *267
+- *49
+- *180
+- *113
+- !ruby/object:Libra::Author
+  name: Jude Frami
+  biography: Eveniet ad ullam suscipit decipio caelestis hic universe.
+- *100
+- *80
+- *35
+- *62
+- *208
+- *217
+- *19
+- *168
+- *229
+- *450
+- *451
+- *43
+- *25
+- *55
+- !ruby/object:Libra::Author
+  name: Shaun Hagenes
+  biography: Amo arbustum concedo aptus tam aurum cribro voro ut vicissitudo contigo
+    aut stips adflicto trans laborum carcer facilis valde pauper.
+- *452
+- *67
+- *453
+- *24
+- *454
+- *121
+- *59
+- *127
+- *187
+- *36
+- *261
+- *228
+- *215
+- *244
+- !ruby/object:Libra::Author
+  name: Annabel Howell
+  biography: Concedo quas quam.
+- *455
+- *230
+- *96
+- *164
+- *216
+- *456
+- *135
+- !ruby/object:Libra::Author
+  name: Ms. Royce McLaughlin
+  biography: Tergum administratio cubitum ulterius sit terra depromo articulus et
+    cibo.
+- *207
+- *457
+- *458
+- *131
+- *71
+- *23
+- *225
+- *259
+- *459
