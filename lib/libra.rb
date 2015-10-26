@@ -71,10 +71,6 @@ module Libra
       YAML.load(File.open('data.yaml', 'r').read)
     end
 
-    def self.load_3
-      JSON.parse(File.open('info.json', 'r')).read
-    end
-
   end
 
 end
